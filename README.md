@@ -1,4 +1,14 @@
-# http-exercicios
+# Tela simples de cadastro de usuários em Vue.js
+=========================================
+
+## Features
+___
+* Vue Bootstrap
+* Axios
+* CRUD: Post, Get, Patch, Delete
+* Firebase
+
+___
 
 ## Project setup
 ```
